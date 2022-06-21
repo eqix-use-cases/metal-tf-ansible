@@ -1,0 +1,5 @@
+.terraform
+*.tfvars
+*.lock.hcl
+.vagrant
+*.tfstate*

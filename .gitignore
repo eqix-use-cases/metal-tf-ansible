@@ -3,3 +3,4 @@
 *.lock.hcl
 .vagrant
 *.tfstate*
+env.sh
